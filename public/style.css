@@ -8,3 +8,20 @@
   margin-top: 1em;
   margin-bottom: 2em;
 }
+.btn-wrapper {
+  min-height: 40px;
+  margin:20px;
+}
+.btn {
+  padding:15px;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+.btn.red {
+  color: white;
+  background: red;
+}
+.btn.blue {
+  color: white;
+  background: blue;
+}
